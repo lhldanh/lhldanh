@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Danh Lieu</h1>  
 <h3 align="center">An AI Student in Vietnam</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhldanh&label=Profile%20views&color=0e75b6&style=flat" alt="lhldanh" /> </p>  
   
   
 - 👨‍💻 All of my projects are available at [https://github.com/lhldanh](https://github.com/lhldanh)  
